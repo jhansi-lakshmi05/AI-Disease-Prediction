@@ -43,4 +43,4 @@ CSE - AI | Internship Project
 
 ---
 
-📁 **Notebook File:** [`View the Full Brain Tumor Detection Notebook`](./Brain-Tumor-Detection-AI.ipynb.ipynb)
+📁 **Notebook File:** [`View the Full Brain Tumor Detection Notebook`](./Brain-Tumor-Detection-AI.ipynb)
